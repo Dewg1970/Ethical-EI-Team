@@ -1,4 +1,3 @@
-![ThePortal Icon](./icon.png)
 <p align="center">
   <img src="./icon.png" width="200" alt="ThePortal Icon"/>
 </p>
